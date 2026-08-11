@@ -14,6 +14,7 @@ const labelsFirst = [
     "SASS",
     "Flask",
     "Python",
+    "Rust",
     "SQL",
     "PostgreSQL",
     "Postman"
@@ -33,12 +34,13 @@ const labelsSecond = [
 
 const labelsThird = [
     "OpenAI",
-    "Groq",
+    "Anthropic Claude",
+    "RAG",
     "LangChain",
     "Qdrant",
     "Hugging Face",
     "LlamaIndex",
-    "Streamlit",
+    "Streamlit"
 ];
 
 function Expertise() {
